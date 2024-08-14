@@ -1,6 +1,6 @@
-# Aptitude Tips/Tricks
+# Numerical ability
 
-### Numerical ability
+### LCM and HCF
 
 - $\text{LCM of fractions} = \large{\frac{\text{LCM of numerators}}{\text{HCF of denominators}}}$
 
